@@ -1,6 +1,6 @@
 ## [CVPR 2023] Cross-Guided Optimization of Radiance Fields With Multi-View Image Super-Resolution for High-Resolution Novel View Synthesis <br><sub>Official PyTorch Implementation </sub>
 
-[Paper](https://arxiv.org/abs/2410.00672)
+[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Yoon_Cross-Guided_Optimization_of_Radiance_Fields_With_Multi-View_Image_Super-Resolution_for_CVPR_2023_paper.pdf)
 
 ## Introduction
 
